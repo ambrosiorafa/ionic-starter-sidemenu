@@ -1,3 +1,4 @@
+**Try to don't use Ionic! isn't a good framework at all.**
 This is an addon starter template for the [Ionic Framework](http://ionicframework.com/).
 
 ## How to use this template
