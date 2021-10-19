@@ -40,7 +40,7 @@ angular.module('starter.controllers', [])
     }, 1000);
   };
 })
-
+//controller playlistsctrl
 .controller('PlaylistsCtrl', function($scope) {
   $scope.playlists = [
     { title: 'Reggae', id: 1 },
